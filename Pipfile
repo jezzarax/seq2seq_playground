@@ -21,6 +21,7 @@ scikit-learn = "*"
 dvc = {extras = ["s3", "ssh"],version = "*"}
 sacrebleu = "*"
 jupyterlab = "*"
+tensorboard = "*"
 
 [requires]
 python_version = "3.6"
