@@ -1,0 +1,8 @@
+{
+    "SEQ_LENGTH": 10,
+    "SAMPLES": 500,
+    "VOCAB_SIZE": 10,
+    "LEARNING_RATE": 0.001,
+    "BATCH_SIZE": 64,
+    "EPOCHS": 15
+}
