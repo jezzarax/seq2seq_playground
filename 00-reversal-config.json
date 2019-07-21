@@ -1,7 +1,7 @@
 {
     "SEQ_LENGTH": 10,
     "SAMPLES": 1000,
-    "VOCAB_SIZE": 10,
+    "VOCAB_SIZE": 5,
     "LEARNING_RATE": 0.001,
     "BATCH_SIZE": 64,
     "EPOCHS": 35
